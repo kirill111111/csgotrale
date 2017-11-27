@@ -1,0 +1,24 @@
+C:\Users\SNES\Desktop\SteamBot\Bin\Debug\SteamBot.exe.config
+C:\Users\SNES\Desktop\SteamBot\Bin\Debug\SteamBot.exe
+C:\Users\SNES\Desktop\SteamBot\Bin\Debug\SteamBot.pdb
+C:\Users\SNES\Desktop\SteamBot\SteamBot\obj\x86\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\SNES\Desktop\SteamBot\SteamBot\obj\x86\Debug\SteamBot.exe
+C:\Users\SNES\Desktop\SteamBot\SteamBot\obj\x86\Debug\SteamBot.pdb
+C:\Users\SNES\Desktop\key bot\Bin\Debug\SteamBot.exe.config
+C:\Users\SNES\Desktop\key bot\SteamBot\obj\x86\Debug\SteamBot.exe
+C:\Users\SNES\Desktop\key bot\SteamBot\obj\x86\Debug\SteamBot.pdb
+C:\Users\SNES\Desktop\key bot\Bin\Debug\SteamBot.exe
+C:\Users\SNES\Desktop\key bot\Bin\Debug\SteamBot.pdb
+C:\Users\SNES\Desktop\key bot\SteamBot\obj\x86\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\key bot - Copy\key bot - Copy\Bin\Debug\SteamBot.exe.config
+C:\Users\Brandon\Documents\GitHub\key bot - Copy\key bot - Copy\SteamBot\obj\x86\Debug\SteamBot.exe
+C:\Users\Brandon\Documents\GitHub\key bot - Copy\key bot - Copy\SteamBot\obj\x86\Debug\SteamBot.pdb
+C:\Users\Brandon\Documents\GitHub\key bot - Copy\key bot - Copy\Bin\Debug\SteamBot.exe
+C:\Users\Brandon\Documents\GitHub\key bot - Copy\key bot - Copy\Bin\Debug\SteamBot.pdb
+C:\Users\Brandon\Documents\GitHub\key bot - Copy\key bot - Copy\SteamBot\obj\x86\Debug\ExampleBot.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Desktop\SteamBot\Bin\Debug\SteamBot.exe.config
+C:\Users\Brandon\Desktop\SteamBot\SteamBot\obj\x86\Debug\SteamBot.exe
+C:\Users\Brandon\Desktop\SteamBot\SteamBot\obj\x86\Debug\SteamBot.pdb
+C:\Users\Brandon\Desktop\SteamBot\Bin\Debug\SteamBot.exe
+C:\Users\Brandon\Desktop\SteamBot\Bin\Debug\SteamBot.pdb
+C:\Users\Brandon\Desktop\SteamBot\SteamBot\obj\x86\Debug\ExampleBot.csprojResolveAssemblyReference.cache
